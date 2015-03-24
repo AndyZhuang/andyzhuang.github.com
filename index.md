@@ -1,46 +1,38 @@
 ---
 layout: page
-title: AZ Galaxy
-tagline: Supporting tagline
+title: CaptainAZ
+tagline: To create a starship
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Recently working on
+On Mar.24th.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    1. A Maker/Hacker Space in Beijing , due in June.
+    2. A E-commerce site on open-source hardware, due in May.
+    3. A Crowdfunding site for Science project,etc, due in April
     
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
     
-## Sample Posts
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## Recently Studying
+On Mar. 24th. 
+    
+    * Linux Admin. (IPtable, Scripting, etc)
+    * Ruby
+    * SDR, HackRF etc.
+    
 
-    $ rm -rf _posts/core-samples
+## Product recommended
+on Mar. 24th.
+    
+    1. www.simplexue.com,  awesome site to learn hacking
+    2. Hiwifi, it is much simpler and safer
+    3. the Movie , bigHero6, so full of maker spirit
 
-Here's a sample "posts list".
+## My words
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+"Learning is fun , and just for fun"
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
