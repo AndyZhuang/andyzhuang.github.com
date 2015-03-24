@@ -1,21 +1,21 @@
 ---
 layout: page
 title: CaptainAZ
-tagline: To create a starship
+tagline:    To create a starship
 ---
 {% include JB/setup %}
 
-## Recently working on
+### Recently working on
 On Mar.24th.
 
     
     1. A Maker/Hacker Space in Beijing , due in June.
-    2. A E-commerce site on open-source hardware, due in May.
+    2. A E-commerce site for open-source hardware, due in May.
     3. A Crowdfunding site for Science project,etc, due in April
     
     
 
-## Recently Studying
+### Recently Studying
 On Mar. 24th. 
     
     * Linux Admin. (IPtable, Scripting, etc)
@@ -23,16 +23,27 @@ On Mar. 24th.
     * SDR, HackRF etc.
     
 
-## Product recommended
+### Product recommended
 on Mar. 24th.
     
     1. www.simplexue.com,  awesome site to learn hacking
     2. Hiwifi, it is much simpler and safer
     3. the Movie , bigHero6, so full of maker spirit
 
-## My words
+### My words
 
-"Learning is fun , and just for fun"
+    
+    "Learning is fun , and just for fun"
+    
+
+
+
+
+
+
+
+
+
 
 
 
