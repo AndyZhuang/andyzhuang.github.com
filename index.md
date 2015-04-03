@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AZ Blog
-tagline:    Record the Fantastic Journey
+title: AZ Blog   
+tagline:        Record the Fantastic Journey
 ---
 {% include JB/setup %}
 
