@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : AZBlog
+title : AZ Blog
 tagline: Site Tagline
 author :
-  name : Andy Zhunag
+  name : Andy Zhuang
   email : Andy@lionsmeet.com  
   github : AndyZhuang
   twitter : username
