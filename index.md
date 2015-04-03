@@ -30,15 +30,14 @@ on Mar. 24th.
     2. Hiwifi, it is much simpler and safer
     3. the Movie , bigHero6, so full of maker spirit
 
-### My words
+### My Posts 
 
-    
-    "Learning is fun , and just for fun"
-    
-
-
-### To be continued ..
-
+<ul class="posts">
+  {% for post in site.posts %}
+       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{
+BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 
 
 
