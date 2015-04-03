@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CaptainAZ
-tagline:    To create a starship
+title: AZ Blog
+tagline:    Record the Fantastic Journey
 ---
 {% include JB/setup %}
 
@@ -36,6 +36,8 @@ on Mar. 24th.
     "Learning is fun , and just for fun"
     
 
+
+### To be continued ..
 
 
 
