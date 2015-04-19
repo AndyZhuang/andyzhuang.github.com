@@ -6,20 +6,19 @@ tagline:        recording the fantastic journey
 {% include JB/setup %}
 
 ### Recently working on
-On Mar.24th.
+On April.19th
 
     
     1. A Maker/Hacker Space in Beijing , due in June.
-    2. A E-commerce site for open-source hardware, due in May.
-    3. A Crowdfunding site for Science project,etc, due in April
+    2. A secret Science App project, due in May, prepare to be amazed.
     
     
 
 ### Recently Studying
-On Mar. 24th. 
+On April.19th
     
     * Linux Admin. (IPtable, Scripting, etc)
-    * Ruby
+    * Docker, Vagrantup, etc
     * SDR, HackRF etc.
     
 
