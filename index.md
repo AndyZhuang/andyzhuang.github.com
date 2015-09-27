@@ -2,7 +2,7 @@
 layout: page
 title: AZ Blog   
 tagline:        recording the fantastic journey
----
+----
 {% include JB/setup %}
 
 ### Starting lines
