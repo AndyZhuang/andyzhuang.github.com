@@ -21,11 +21,9 @@ don't do anything about it". My heart ached just by thinking about it.
 
 ### Recently working on
 On Sep.27th
-
     
-1. A sequencing company
-2. My own hacking
-    
+    1. A sequencing company
+    2. My own hacking
     
 
 ### Recently Studying
@@ -38,11 +36,10 @@ On Sep.27th
 
 ### Product recommended
 On Sep.27th
-
     
-1. www.freebuf.com
-2. www.starshipff.com
-3. Geek Gene maybe
+    1. www.freebuf.com
+    2. www.starshipff.com
+    3. Geek Gene maybe
     
 
 ### My Posts 
