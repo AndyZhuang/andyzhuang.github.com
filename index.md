@@ -1,67 +1,46 @@
-----
+---
 layout: page
-title: AZ Blog   
-tagline:        recording the fantastic journey
-----
+title: CaptainAZ
+tagline: To create a starship
+---
 {% include JB/setup %}
 
-### Starting lines
+Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-1. For the last several months , I built the Starship Space and got several
-teams in the incubator, moreover, I am so into biology and sequencing industry 
-and try to build a new company. So much to learn, and so fun to dive into
-it.Everyday it is like a new adventure to me. Not sure if I am too cocky on the
-dicision, but at least I enjoy it quite a lot. 
-2. Recently I watched zhaowei's address on web security and quite impressed
-with the quote he used , it is Einstein's quote, saying "it is dangerous place
-to live not because of the people who are evil, but because of the people who
-don't do anything about it". My heart ached just by thinking about it.
-3. Anyway, I am back, and continue to cultivate with this blog. 
+Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
+## Update Author Attributes
 
-### Recently working on
-On Sep.27th
-
+In `_config.yml` remember to specify your own data:
     
-1. A sequencing company
-2. My own hacking
+    title : The Starship Journey
     
-    
+    author :
+      name : Andy Zhuang
+      email : andy@lionsmeet.com
+      github : AndyZhuang
+      twitter : username
 
-### Recently Studying
-On Sep.27th
+The theme should reference these variables whenever needed.
     
-    * Biology NGS
-    * Bioinformatics
-    * Ruby
-    
+## Sample Posts
 
-### Product recommended
-On Sep.27th
+This blog contains sample posts which help stage pages and blog data.
+When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
-    
-1. www.freebuf.com
-2. www.starshipff.com
-3. Geek Gene maybe
-    
+    $ rm -rf _posts/core-samples
 
-### My Posts 
+Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
-       <li>
-       <span>{{ post.date | date_to_string }}</span> &raquo; 
-<a href="{{BASE_PATH }}{{ post.url}}"> {{ post.title }} </a>
-       </li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
+## To-Do
 
-
-
-
-
-
-
+This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
+We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
