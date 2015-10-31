@@ -27,10 +27,10 @@ On Sep.27th
     
 
 ### Recently Studying
-On Sep.27th
+On Oct.30th
     
     * Biology NGS
-    * Bioinformatics
+    * Galaxy - Bioinformatics
     * Ruby
     
 
@@ -39,7 +39,7 @@ On Sep.27th
     
     1 www.freebuf.com
     2 www.starshipff.com
-    3 Geek Gene maybe
+    3 Starship Gene
     
 
 ### My Posts 
