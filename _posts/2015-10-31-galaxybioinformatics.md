@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Galaxy:bioinformatics"
-description: "Finally find the right starting point for bioinformatics""
+description: "Finally find the right starting point for bioinformatics"
 category: 
 tags: [biology,bioinformatics,automation,starship]
 ---
